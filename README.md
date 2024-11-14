@@ -1,4 +1,4 @@
-bfshdt# my-firstdevops-repo
+# my-firstdevops-repo
 
 
 
